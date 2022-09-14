@@ -22,7 +22,7 @@ if (n>0)
 }
 else if (n==0)
 {
-	printf("%i is zere\n", n):
+	printf("%i is zere\n", n);
 }
 else if (n < 0)
 {
