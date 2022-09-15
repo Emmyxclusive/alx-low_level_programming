@@ -13,7 +13,7 @@
 * Return: 0
 */
 int main(void)
-
+/*code goes here */
 {
 int n;
 int l;
