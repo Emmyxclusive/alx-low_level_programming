@@ -7,6 +7,7 @@
  * Reurn: 0
  */
 int main(void)
+ /* your code goes here */
 {
 char ch;
 
