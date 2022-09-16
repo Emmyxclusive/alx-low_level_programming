@@ -23,8 +23,8 @@ if (c != 89)
 putchar(',');
 putchar(' ');
 }
-}c++;
-
+}
+c++;
 }
 putchar('\n');
 return (0);
