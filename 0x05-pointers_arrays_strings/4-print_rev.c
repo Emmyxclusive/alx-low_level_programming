@@ -10,6 +10,6 @@ void print_rev(char *s)
 {
 int len = strlen(s);
 while(len--)
-ptutchar(*(s + len));
+putchar(*(s + len));
 putchar(10);
 }
