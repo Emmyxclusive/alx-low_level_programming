@@ -8,6 +8,7 @@
  * on succes: return no error
  */
 void _puts(char *s)
+{
 int i = 0;
 while (*(str + i) != ('\0')
 {
