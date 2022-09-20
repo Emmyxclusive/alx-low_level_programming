@@ -1,13 +1,10 @@
 #include "main.h"
 /**
- * swap_int - swap two integers' values
- *@a: first integer
- *@b: second integer
- *Return: return nothing
+ * reset_to_98 - reset the value of a given number to 98
+ * @n: parameter
+ * return: nothing
  */
-void swap_int(int *a, int *b)
+void reset_to_98(int *n)
 {
-int tmp = *a;
-*a = b;
-*b = tmp
+*n =98;
 }
