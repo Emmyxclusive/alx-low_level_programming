@@ -7,7 +7,7 @@
  * Description: print a string
  * on succes: return no error
  */
-void _puts(char *s)
+void _puts(char *str)
 {
 int i = 0;
 while (*(str + i) != ('\0')
